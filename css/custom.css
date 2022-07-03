@@ -1,0 +1,133 @@
+body {
+    background-color: #EBEBEB;
+
+
+}
+
+.margin {
+    margin: 0rem 5rem;
+}
+
+.joya {
+    background-color: #FFF159 !important;
+}
+
+.btn btn-outline-warning {
+    background-color: #FFF159;
+
+}
+
+.DALEE {
+    background-color: #FFFFFF;
+}
+
+.container {
+    background-color: white;
+}
+
+
+body>div .container {
+    background-color: #FFF159;
+}
+
+
+.num5 {
+    align-self: center;
+}
+
+
+.containerInfo {
+    font-family: "Proxima Nova", -apple-system, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+
+.subtiteInfo {
+    color: rgb(75, 75, 75);
+    font-weight: lighter;
+}
+
+.textContent {
+    color: rgb(153, 153, 153);
+    font-weight: lighter;
+}
+
+.boxInfo a {
+    text-decoration: none;
+}
+
+.footer a {
+    text-decoration: none;
+    color: rgb(75, 75, 75);
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: blue;
+}
+
+.footer p {
+    font-weight: lighter;
+}
+
+#info1 {
+    border-radius: 0.5rem;
+    padding: 1.5rem 12rem;
+}
+
+#info2{
+    border-radius: 0.5rem;
+}
+.footer-a {
+    text-decoration: none;
+}
+
+.moreinfo{
+    margin-top: 5rem;
+}
+
+footer>div>div {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: flex-start;
+}
+
+footer>div {
+    margin: 0 -5rem;
+}
+
+
+.icono-buscar {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.4rem 0.7rem;
+    border-radius: 0px 5px 5px 0px;
+    /* border: 0.1px solid rgba(182, 181, 181, 0.6); */
+}
+
+.form-control{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    box-shadow: none;
+
+}
+
+
+.form-control:focus {
+    box-shadow: none;
+    border: 0;
+  }
+
+.elementDropdown{ 
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 100%;
+    z-index: 1;
+    font-size: 15px;
+}
+
+h5{
+    text-decoration: none;
+}
